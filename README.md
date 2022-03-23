@@ -1,4 +1,4 @@
-# gda94-to-gda2020-tools
+# GDA94 to GDA2020 transformation tools
 Tools to help transform GDA94 coordinates to GDA2020 coordinates.
 
 Detailed information about the geodetic operations performed by these tools is contained in the Geocentric Datum of Australia 2020 Technical Manual https://www.icsm.gov.au/publications/gda2020-technical-manual-v17.
